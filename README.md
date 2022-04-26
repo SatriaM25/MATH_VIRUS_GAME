@@ -19,7 +19,18 @@ https://user-images.githubusercontent.com/77273824/165234805-a15d1080-86ad-49a3-
 7. Done.
 
 - STEP TO RUN THE APK FILE ON YOUR ANDROID PHONE:
+1. Open the project on your unity
+2. Go to **File -> Build Settings...**
+3. Make sure you have **Android** platform selected (otherwise, switch)
+4. You can leave all the settings as it is. Now, click **Build**
 
+![image](https://user-images.githubusercontent.com/77273824/165239194-49c73995-6fbb-44e1-9af7-a98ad70585dd.png)
+
+5. Choose the directory path where you want to store the APK file (maybe you can immediately store it in your android device if you have USB cable connected)
+6. Click **Save**
+7. Transfer the APK file from your computer to your android phone
+8. Open the APK file on your android phone
+9. Done.
 
 - INTERFACES & FEATURES :
 
