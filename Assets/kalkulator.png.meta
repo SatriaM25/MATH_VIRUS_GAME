@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: beaec3a9b88df894bb820ad6371a1a30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4228365698419365320
+    second: kalkulator_0
+  - first:
+      213: -3091822833782120696
+    second: kalkulator_1
+  - first:
+      213: 2583856343072450913
+    second: kalkulator_2
+  - first:
+      213: 2663084847599979213
+    second: kalkulator_3
+  - first:
+      213: 4858397421206011101
+    second: kalkulator_4
+  - first:
+      213: -3803488814547918793
+    second: kalkulator_5
+  - first:
+      213: -1022430262722813613
+    second: kalkulator_6
+  - first:
+      213: -8859504004232205492
+    second: kalkulator_7
+  - first:
+      213: 2048282825806193397
+    second: kalkulator_8
+  - first:
+      213: -8736295843769056098
+    second: kalkulator_9
+  - first:
+      213: -5781756941309766159
+    second: kalkulator_10
+  - first:
+      213: 8116252089161053101
+    second: kalkulator_11
+  - first:
+      213: -3174253861716602336
+    second: kalkulator_12
+  - first:
+      213: -1584286983854892714
+    second: kalkulator_13
+  - first:
+      213: 8979485808560288911
+    second: kalkulator_14
+  - first:
+      213: -1494094670276947602
+    second: kalkulator_15
+  - first:
+      213: -212109021130331453
+    second: kalkulator_16
+  - first:
+      213: -5565879909965716033
+    second: kalkulator_17
+  - first:
+      213: -7971993924722180710
+    second: kalkulator_18
+  - first:
+      213: -8083257613503431331
+    second: kalkulator_19
+  - first:
+      213: -7628956479646193246
+    second: kalkulator_20
+  - first:
+      213: -3816309663907291671
+    second: kalkulator_21
+  - first:
+      213: -9070855485893741780
+    second: kalkulator_22
+  - first:
+      213: 4410637189881840849
+    second: kalkulator_23
+  - first:
+      213: 7221058180250866790
+    second: kalkulator_24
+  - first:
+      213: -5729061944706000765
+    second: kalkulator_25
+  - first:
+      213: 5027274124734429457
+    second: kalkulator_26
+  - first:
+      213: 5993871944385721570
+    second: kalkulator_27
+  - first:
+      213: 2389665777675658815
+    second: kalkulator_28
+  - first:
+      213: -1658394793631951342
+    second: kalkulator_29
+  - first:
+      213: 4764685024307945102
+    second: kalkulator_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kalkulator_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59bba233c2eaa30800000000000000
+      internalID: 4228365698419365320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 252
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f99fb8383a715d0800000000000000
+      internalID: -3091822833782120696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169297777a3bbd320800000000000000
+      internalID: 2583856343072450913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 251
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0ceb2f8d25f420800000000000000
+      internalID: 2663084847599979213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 282
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc78a4b6be7c6340800000000000000
+      internalID: 4858397421206011101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 282
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73023bd231b473bc0800000000000000
+      internalID: -3803488814547918793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 282
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512cc6d7199fc1f0800000000000000
+      internalID: -1022430262722813613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba69d3c08bc0580800000000000000
+      internalID: -8859504004232205492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f226b7b066fc6c10800000000000000
+      internalID: 2048282825806193397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 201
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948c6b873172c680800000000000000
+      internalID: -8736295843769056098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 222
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51597e1b213cfa0800000000000000
+      internalID: -5781756941309766159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 147
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da377f9f548b2a070800000000000000
+      internalID: 8116252089161053101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 136
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02258714ee8c2f3d0800000000000000
+      internalID: -3174253861716602336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 135
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659dd01d16b730ae0800000000000000
+      internalID: -1584286983854892714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 163
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b5ec74ca8d9c70800000000000000
+      internalID: 8979485808560288911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 148
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61965d30d8e34be0800000000000000
+      internalID: -1494094670276947602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 117
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caeed518ff6e0df0800000000000000
+      internalID: -212109021130331453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 114
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a20016b502c2b0800000000000000
+      internalID: -5565879909965716033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 28
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dbc5d43c9cd5190800000000000000
+      internalID: -7971993924722180710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df727070082df80800000000000000
+      internalID: -8083257613503431331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 70
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a926cf6080802690800000000000000
+      internalID: -7628956479646193246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 70
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5ae1949eb90bc0800000000000000
+      internalID: -3816309663907291671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_22
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 70
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23766abef8dd1280800000000000000
+      internalID: -9070855485893741780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 70
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c808d72bb53d30800000000000000
+      internalID: 4410637189881840849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641848f72a563460800000000000000
+      internalID: 7221058180250866790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 52
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881791e3884e70b0800000000000000
+      internalID: -5729061944706000765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 53
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119fe494e2774c540800000000000000
+      internalID: 5027274124734429457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47a4ac6c28e2350800000000000000
+      internalID: 5993871944385721570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e3422d5cc92120800000000000000
+      internalID: 2389665777675658815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 19
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d534c8b23cf8e0800000000000000
+      internalID: -1658394793631951342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalkulator_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 14
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e9f7409cf8f1240800000000000000
+      internalID: 4764685024307945102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd162a0cacad95948aa12004e16ef3a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
